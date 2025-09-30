@@ -9,7 +9,7 @@
 - 💻 Passionate about **Backend Development**, but open to Frontend
 - 🌱 Learning more about **Fullstack Development** & **AI**
 - 🎯 Goal: Become a **Software Engineer** who builds impactful products
-- ⚡ Fun fact: I enjoy coding with music 🎶 and exploring manhwa 🌸
+- ⚡ Fun fact: I enjoy music 🎶 and exploring books 🌸
 
 ---
 
