@@ -1,6 +1,3 @@
-# sshania-sshania
-
-<!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Shania</h1>
 <h3 align="center">🚀 Computer Science Student | Software Development Enthusiast</h3>
