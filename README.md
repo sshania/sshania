@@ -5,11 +5,11 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Currently studying **Computer Science (5th Semester)**
-- 💻 Passionate about **Backend Development**, but open to Frontend
-- 🌱 Learning more about **Fullstack Development** & **AI**
-- 🎯 Goal: Become a **Software Engineer** who builds impactful products
-- ⚡ Fun fact: I enjoy music 🎶 and exploring books 🌸
+- 🎓 A 5th-semester Computer Science student with a strong curiosity in technology
+- 💻 Passionate about Backend Development, while also exploring Frontend to grow into a versatile developer
+- 🌱 Currently diving deeper into Fullstack Development and AI applications
+- 🎯 Aspiring to become a Software Engineer who creates impactful and meaningful digital products
+- ⚡ Outside of tech, I enjoy listening to music 🎶 and exploring books 🌸 for inspiration�
 
 ---
 
