@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 A 5th-semester Computer Science student with a strong curiosity in technology
+- 🎓 A 7th-semester Computer Science student with a strong curiosity in technology
 - 💻 Passionate about Backend Development, while also exploring Frontend to grow into a versatile developer
 - 🌱 Currently diving deeper into Fullstack Development and AI applications
 - 🎯 Aspiring to become a Software Engineer who creates impactful and meaningful digital products
